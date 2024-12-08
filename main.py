@@ -47,5 +47,3 @@ def age_predict(frame):
         shared_boxes.append((x, y, w, h, age))
 
 cam_runner()
-
-
